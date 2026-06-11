@@ -1,17 +1,28 @@
 <h1>Data Cleaning in SQL</h1>
 
 <h2>Description</h2>
-This project contains a raw dataset 
+Objective: Clean and prepare a global layoffs dataset using MySQL to ensure data accuracy, consistency, and usability for analysis. 
+<br><br>
+
+Key Tasks:
+
+- <b>Removed duplicate records using window functions and Common Table Expressions (CTEs).</b>
+- <b>Standardized company names, locations, industries, and date formats.</b>
+- <b>Identified and resolved null, blank, and inconsistent values.</b>
+- <b>Validated dataset integrity and ensured consistency across records.</b>
+- <b>Produced a clean, analysis-ready database suitable for trend analysis and visualization.</b>
+
+<b>Outcome:</b> Created a reliable dataset for analyzing worldwide layoffs across industries and regions during 2022–2023, supporting further business intelligence and data visualization initiatives.
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>MySQL, MySQL Workbench, SQL Window Functions, CTEs</b> 
+- <b>Data Cleaning and Transformation</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> (22H2)
 
 <h2>Program walk-through:</h2>
 
