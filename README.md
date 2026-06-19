@@ -1,4 +1,4 @@
-<h1>Data Cleaning in SQL</h1>
+<h1>Global Layoffs Data Cleaning (MySQL)</h1>
 
 <h2>Description</h2>
 Objective: Clean and prepare a global layoffs dataset using MySQL to ensure data accuracy, consistency, and usability for analysis. 
